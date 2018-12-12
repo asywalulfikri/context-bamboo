@@ -1,0 +1,37 @@
+{
+  "name": "context-bamboo",
+  "version": "0.1.0",
+  "description": "Simplify React Context",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "mocha",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raitucarp/context-bamboo.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "context",
+    "context"
+  ],
+  "author": "Ribhararnus Pracutiar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raitucarp/context-bamboo/issues"
+  },
+  "homepage": "https://github.com/raitucarp/context-bamboo#readme",
+  "devDependencies": {
+    "@types/react": "^16.7.13",
+    "react": "^16.6.3",
+    "typescript": "^3.2.2"
+  },
+  "peerDependencies": {
+    "react": "^16.6.3"
+  }
+}
